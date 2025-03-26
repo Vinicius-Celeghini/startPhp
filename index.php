@@ -9,9 +9,9 @@
         $peso = 30;
 
         if(($idade >= 16 && $idade <= 69) && $peso >= 50){
-            echo " Atende os requisitos"
+            echo " Atende os requisitos";
         } else {
-            echo "Não atende os requisistos"
+            echo "Não atende os requisistos";
         }
 
     ?>
